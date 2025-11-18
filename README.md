@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rifat Nawas</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Flutter,Dart and Bloc**
+• 🔭 I’m currently working on **Flutter,Dart and Bloc**
 
-- 🌱 I’m currently learning **Flutter web development**
+• 🌱 I’m currently learning **Flutter web development**
 
-- 👯 I’m looking to collaborate on **Firebase**
+• 👯 I’m looking to collaborate on **Firebase**
 
-- 🤝 I’m looking for help with **Native module integration**
+• 🤝 I’m looking for help with **Native module integration**
+• 📫 How to reach me rifatnawas36@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
