@@ -1,7 +1,9 @@
+<p align="center"><img src="https://raw.githubusercontent.com/istakher742/istakher742/main/Assets/Istakher Github Banner.png"></p> 
+<p <img src="https://raw.githubusercontent.com/istakher742/istakher742/main/Assets/istakher Bot.gif" min-width="300px" max-width="300px" width="350px" align="center"></p>
 <h1 align="center">Hi 👋, I'm Rifat Nawas</h1>
 <h3 align="center">Mobile Development Specialist & BSc. Computer Science Graduate from Bangladesh</h3>
 
-💼 Current Focus & Collaboration
+💼 Current Focus & Collaboration 
 
 🔭 I’m currently focused on Cross-Platform Mobile Architecture using Flutter and Dart, specialising in the GetX state management pattern.
 
@@ -13,7 +15,10 @@
 
 🎓 I recently completed my BSc. in Computer Science and Engineering 
 
-📫 How to reach me rifatnawas36@gmail.com
+📫 How to reach me rifatnawas36@gmail.com <img src="https://raw.githubusercontent.com/istakher742/istakher742/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+
+
+
 
 💻 Languages and Tools
 
