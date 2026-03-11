@@ -1,5 +1,4 @@
 <div align="center">
-  <kbd><b> 🚀 PROFILE ANALYTICS </b></kbd>
   <br />
   <br />
   
@@ -7,11 +6,9 @@
     <img src="https://komarev.com/ghpvc/?username=HSC-Expert-2026&label=TOTAL+VISITORS&color=0078d4&style=for-the-badge&logo=github" alt="Live Count" />
   </a>
 
-  <br />
-  
-  <img src="https://img.shields.io/badge/Server-Global-orange?style=flat-square&logo=google-cloud" />
-  <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square&logo=statuspage" />
+  <br/>
 </div>
+ <br>
 <p align="center"><img src="https://raw.githubusercontent.com/istakher742/istakher742/main/Assets/Istakher Github Banner.png"></p> 
 <p <img src="https://raw.githubusercontent.com/istakher742/istakher742/main/Assets/istakher Bot.gif" min-width="300px" max-width="300px" width="350px" align="center"></p>
 <h1 align="center">Hi 👋, I'm Rifat Nawas</h1>
